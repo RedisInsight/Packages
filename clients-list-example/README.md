@@ -30,5 +30,5 @@ yarn
 yarn build
 ```
 
-[Add](../../RedisInsight/docs/plugins/installation.md) the package.json file and the 
+[Add](https://github.com/RedisInsight/RedisInsight/blob/main/docs/plugins/installation.md) the package.json file and the 
 `dist` folder to the folder with your plugin, which should be located in the `plugins` folder.
