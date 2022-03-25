@@ -1,4 +1,7 @@
-# Example of the plugin for the “Client List” command
+# Example of the plugin for the “randomkey” command
+
+Simple example shows how to communicate with RedisInsight v2 
+via [redisinsight-plugin-sdk](https://www.npmjs.com/package/redisinsight-plugin-sdk).
 
 The example has been created using React, TypeScript, and [Elastic UI](https://elastic.github.io/eui/#/). 
 [Parcel](https://parceljs.org/) is used to build the plugin.
@@ -12,8 +15,8 @@ yarn start
 ```
 These commands will install dependencies and start the server. 
 
-_Note_: Base styles are included to `index.html` 
-from [RedisInsight](https://github.com/RedisInsight/RedisInsight) repository.
+_Note_: Base styles are included to `index.html` from 
+[RedisInsight](https://github.com/RedisInsight/RedisInsight) repository.
 
 _From RedisInsight Repo_:
 This command will generate the `vendor` folder with styles and fonts of the core app. Add this folder 
