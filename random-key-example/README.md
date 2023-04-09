@@ -40,6 +40,6 @@ yarn build
 
 ## Create your own plugin visualization
 Follow these instructions to create your own plugin visualizations:
-1. [Introduction to plugins for the Workbench](https://github.com/RedisInsight/Packages/docs/introduction.md)
-1. [Plugin development](https://github.com/RedisInsight/Packages/docs/development.md)
-1. [Installation](https://github.com/RedisInsight/Packages/docs/installation.md)
+1. [Introduction to plugins for the Workbench](https://github.com/RedisInsight/Packages/tree/main/docs/introduction.md)
+1. [Plugin development](https://github.com/RedisInsight/Packages/tree/main/docs/development.md)
+1. [Installation](https://github.com/RedisInsight/Packages/tree/main/docs/installation.md)
