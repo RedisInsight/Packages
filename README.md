@@ -10,7 +10,7 @@ Though, sometimes it may not be enough.
 For such cases, Workbench supports plugin visualizations that empower you to create your own custom data visualization as a plugin to cover your use cases and work with it in Workbench.
 
 This repository describes the process to create your own data visualizations for RedisInsight Workbench.
-You can find documentation that describes the entire process [here](https://github.com/RedisInsight/Packages/docs).
+You can find documentation that describes the entire process [here](https://github.com/RedisInsight/Packages/tree/main/docs).
 
 You can also look at and try the following examples of plugin visualizations for Workbench:
 
